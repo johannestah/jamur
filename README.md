@@ -1,2 +1,3 @@
 # jamur
-Jamur di tembok
+Jamur di tembok 
+Tumbuh dan hidup sendiri
